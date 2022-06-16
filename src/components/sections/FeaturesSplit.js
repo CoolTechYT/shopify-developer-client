@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                  Unstoppable growth
                   </h3>
                 <p className="m-0">
-                  TikTok just surpassed 4 billion all-time global installs and clocked in in Q1 2022 as the fastest growing app worlwide.
+                  TikTok just surpassed 4 billion all-time global installs and clocked in as the fastest growing app worldwide in Q1 2022.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   UGC is King
                   </h3>
                 <p className="m-0">
-                  Makes native content and UGC advertising much more seamless, targeted, and accessible through brand collab features and an influencer hiring portal.
+                  Makes native content and UGC advertising much more seamless, targeted, and accessible through brand collab campaigns and an influencer partnership portal.
                   </p>
               </div>
               <div className={
