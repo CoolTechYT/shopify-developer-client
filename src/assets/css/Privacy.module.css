@@ -1,0 +1,6 @@
+.container {
+    max-width: 680px;
+    display: block;
+    flex: 1 0 auto;
+    justify-content: space-between;
+}

@@ -62,7 +62,7 @@ const Hero = ({
           <div className="hero-content">
             <br />
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Drive more traffic, <span className="text-color-primary">turbo</span>
+              Drive more traffic, <span className="text-color-primary">twin-turbo</span>
             </h1>
             {/* <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
