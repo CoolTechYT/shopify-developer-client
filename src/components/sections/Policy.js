@@ -54,7 +54,7 @@ const Policy = ({
       <div className="container">
         <div className={innerClasses}>
           <div className={tilesClasses}>
-          <div style={{ margin: "24px 64px", marginBottom: 128 }}>
+          <div style={{ margin: "24px 64px", marginBottom: 128, textAlign: `left` }}>
             <h1>Privacy Policy of Turbovid.io</h1>
             <p>Turbovid.io operates the https://turbovid.io website, which provides the SERVICE.</p>
             <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Turbovid.io website.</p>

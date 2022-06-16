@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Better than Instagram
                   </h3>
                 <p className="m-0">
-                  Over 33% more watch time. See the graphic on the right. 
+                  Over 33% more watch time. Just look at the graphic for yourself.
                   </p>
               </div>
               <div className={
