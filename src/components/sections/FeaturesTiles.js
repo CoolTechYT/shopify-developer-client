@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: `eCommerce`,
-    paragraph: `We're a team of Shopify developers and TikTok creators working together to make the most out of Shopify + TikTok `
+    paragraph: `We're a team of Shopify developers and TikTok creators working together to make the most out of both `
   };
 
   return (
